@@ -71,3 +71,14 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 } */
+
+.layout-wrapper {
+  min-height: 100vh;
+}
+
+.home-background {
+  background-image: url('https://previews.123rf.com/images/topntp/topntp2010/topntp201001681/157585224-abstract-blur-shop-and-retail-store-in-shopping-mall-for-background.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
